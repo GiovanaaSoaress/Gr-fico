@@ -21,7 +21,7 @@ async function redesFavoritasMundo() {
         paper_bgcolor: getCSS('--bg-color'),
         height: 700,
         title: {
-            text: 'Redes sociais que os usuários mais gostam',
+            text: 'Semana 4',
             x: 0,
             font: {
                 color: getCSS('--primary-color'),
